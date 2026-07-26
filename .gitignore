@@ -1,0 +1,4 @@
+# 로컬 툴링 (힉스필드 스킬/설정) — repo에 커밋 안 함
+.agents/
+.claude/
+skills-lock.json
